@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik liela daļa no saules enerģijas Eiropā nāk no mājām?",
+  "subtitle": "Kopš 2025. gada 38,9% no visām Eiropas Savienībā uzstādītajām privātajām jumtu fotoelektriskajām sistēmām bija zem 10 kWp.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Skaitļi ir balstīti uz datiem, kas apkopoti, pamatojoties uz IEA, ACER un katras Eiropas Savienības dalībvalsts nacionālo reģistru ziņojumiem.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "IEA, nacionālie reģistri, ACER",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
