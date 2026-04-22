@@ -1,13 +1,11 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka suuri osa Euroopan aurinkoenergiasta tulee kodeista?",
+  "subtitle": "Vuonna 2025 Euroopan unionissa 38,9 % kaikista asennetuista yksityisistä kattojen aurinkosähköjärjestelmistä on alle 10 kWp:n tehoisia.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Luvut perustuvat tietoihin, jotka on koottu IEA:n, ACERin ja kunkin Euroopan unionin jäsenvaltion kansallisten rekisterien raporttien perusteella.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "IEA, kansalliset rekisterit, ACER",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
