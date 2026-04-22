@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jaka część energii słonecznej w Europie pochodzi z domów?",
+  "subtitle": "W 2025 r. 38,9% wszystkich zainstalowanych prywatnych systemów fotowoltaicznych na dachach w Unii Europejskiej miało moc poniżej 10 kWp.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Dane opierają się na danych zagregowanych na podstawie sprawozdań Międzynarodowej Agencji Energii Atomowej, Agencji ds. Współpracy z Zagranicą (ACER) i krajowych rejestrów każdego państwa członkowskiego Unii Europejskiej.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "IEA, Rejestry krajowe, ACER",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
