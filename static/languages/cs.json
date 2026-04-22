@@ -1,13 +1,11 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Kolik solární energie v Evropě pochází z domácností?",
+  "subtitle": "V roce 2025 mělo 38,9 % z celkového počtu instalovaných soukromých střešních fotovoltaických systémů v Evropské unii výkon nižší než 10 kWp.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Údaje vycházejí z dat shromážděných na základě zpráv IEA, ACER a národních registrů jednotlivých členských států Evropské unie.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "IEA, Národní registry, ACER",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Žádné údaje k dispozici",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
