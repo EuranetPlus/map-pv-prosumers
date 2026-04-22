@@ -1,13 +1,11 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "How much of Europe’s solar power comes from homes? ",
+  "subtitle": "As of 2025 38.9% of the overall installed private rooftop PV systems are below 10 kWp in the European Union.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "The figures are based on data that has been aggregated based on reports by the IEA, ACER and the national registers of each European Union member state.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "IEA, National Registers, ACER",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
   "tooltipExtraInfoLabel": "Click here"
 }
