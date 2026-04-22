@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel van de zonne-energie in Europa is afkomstig van huishoudens?",
+  "subtitle": "In 2025 zal 38,9% van alle geïnstalleerde particuliere PV-systemen op daken in de Europese Unie een vermogen hebben van minder dan 10 kWp.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De cijfers zijn gebaseerd op gegevens die zijn samengevoegd uit rapporten van het IEA, ACER en de nationale registers van elke lidstaat van de Europese Unie.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "IEA, Nationale Registers, ACER",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
