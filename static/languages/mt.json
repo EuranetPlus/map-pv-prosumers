@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm mill-enerġija solari tal-Ewropa ġejja mid-djar?",
+  "subtitle": "Mill-2025, 38.9% tas-sistemi PV privati installati fuq il-bejt fl-Unjoni Ewropea huma taħt l-10 kWp.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Iċ-ċifri huma bbażati fuq dejta li ġiet aggregata abbażi ta’ rapporti mill-IEA, l-ACER u r-reġistri nazzjonali ta’ kull stat membru tal-Unjoni Ewropea.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-IEA, ir-Reġistri Nazzjonali, l-ACER",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
