@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quelle part de l'énergie solaire en Europe provient des habitations ?",
+  "subtitle": "En 2025, 38,9 % des systèmes photovoltaïques privés installés sur les toits dans l'Union européenne auront une puissance inférieure à 10 kWc.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Ces chiffres sont basés sur des données agrégées à partir des rapports de l'AIE, de l'ACER et des registres nationaux de chaque État membre de l'Union européenne.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "IEA, Registres nationaux, ACER",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
