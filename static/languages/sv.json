@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur mycket av Europas solenergi kommer från bostäder?",
+  "subtitle": "År 2025 låg 38,9 % av de totalt installerade privata solcellssystemen på tak i Europeiska unionen under 10 kWp.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Siffrorna är baserade på data som har sammanställts baserat på rapporter från IEA, ACER och de nationella registren i varje EU-medlemsstat.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "IEA, nationella register, ACER",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
